@@ -1,0 +1,3 @@
+# Projekt do předmětu INC - Návrh číslicových systémů
+Předmět je povinnou součástí bakalářského studia na Fakultě informačních technologií Vysokého učení technického v Brně. Vypracování projektu je rozděleno na dvě části. V první části jde o návrh fungování obvodu na úrovni RTL a také logiky jeho řídícího automatu. Odevzdává se dokument s popisem vámi navrženého řešení. Druhá část je zaměřena na implementaci navrženého obvodu v jazyce
+VHDL a odladění správné funkcionality pomocí nástrojů pro simulaci a syntézu. Odevzdávají se zdrojové kódy implementace a doplněná zpráva s popisem fungování vytvořeného obvodu.
